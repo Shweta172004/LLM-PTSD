@@ -5,7 +5,7 @@
 <h2>Data Preprocessing</h2>
 <p>The raw data underwent extensive preprocessing to prepare it for analysis and model training. This included:</p>
 <li>
-  <ul><b>Text Cleaning</b><p>: Remove special characters, links, and contractions to standardize the text.</p></ul>
-  <ul><b>Lemmatization</b><p>: Conversion of words to their base forms reduces dimensionality and improves the model's generalization ability.</p></ul>
-  <ul><b>Spelling Correction</b><p>: Automated correction of common spelling errors to ensure consistency across the dataset.</p></ul>
+  <ul><b>Text Cleaning</b><p>Remove special characters, links, and contractions to standardize the text.</p></ul>
+  <ul><b>Lemmatization</b><p>Conversion of words to their base forms reduces dimensionality and improves the model's generalization ability.</p></ul>
+  <ul><b>Spelling Correction</b><p>Automated correction of common spelling errors to ensure consistency across the dataset.</p></ul>
 </li>
