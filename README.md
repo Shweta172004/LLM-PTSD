@@ -9,4 +9,5 @@
 <ul><b>Spelling Correction</b><p>Automated correction of common spelling errors to ensure consistency across the dataset.</p></ul>
 <h2>Data Anonymization</h2>
 <p>To protect the privacy of individuals who shared their experiences, all personal identifiers were removed from the data. This was achieved using the 'scrubadub' module to anonymize the text, ensuring that the dataset is safe to use for research purposes</p>
+<h2>Fine Tuning using Low-Rank Adaption and Differential Privacy</h2>
 
