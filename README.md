@@ -7,4 +7,6 @@
 <ul><b>Text Cleaning</b><p>Remove special characters, links, and contractions to standardize the text.</p></ul>
 <ul><b>Lemmatization</b><p>Conversion of words to their base forms reduces dimensionality and improves the model's generalization ability.</p></ul>
 <ul><b>Spelling Correction</b><p>Automated correction of common spelling errors to ensure consistency across the dataset.</p></ul>
+<h2>Data Anonymization</h2>
+<p>To protect the privacy of individuals who shared their experiences, all personal identifiers were removed from the data. This was achieved using the 'scrubadub' module to anonymize the text, ensuring that the dataset is safe to use for research purposes</p>
 
